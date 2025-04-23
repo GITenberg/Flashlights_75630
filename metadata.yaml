@@ -1,0 +1,53 @@
+_repo: Flashlights_75630
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aldis, Mary
+    aliases:
+    - Aldis, Arthur T., Mrs.
+    - Aldis, Mrs. Arthur T.
+    - Aldis, Mary Reynolds
+    birthdate: 1872
+    deathdate: 1949
+    gutenberg_agent_id: '58073'
+    url: http://www.gutenberg.org/2009/agents/58073
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Aldis_(playwright)
+description: 'Reading ease score: 88.9 (6th grade). Easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: Literature'
+- 'Browsing: Poetry'
+gutenberg_issued: '2025-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75630'
+  lccn: '16011975'
+language: en
+pgterms:marc904: https://archive.org/details/flashlights00aldirich/page/n5/mode/2up
+pgterms:marc905: 20230531120311aldis
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bDuffield & Company, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 20th century'
+- !lcc 'PS'
+- GITenberg
+summary: '"Flashlights" by Mary Aldis is a collection of poems, stories, and sketches
+  written in the early 20th century. This book captures various moments of human emotion
+  and experience, reflecting themes of longing, love, and societal observation. Through
+  its blend of poetic forms and narrative prose, it delves into the complexities of
+  life, love, and the search for meaning in a rapidly changing world.  The content
+  of "Flashlights" flows through a series of vignettes and lyrical pieces, exploring
+  the lives of everyday characters—from the troubled souls in a barber shop to the
+  poignant exchanges among strangers on a park bench. Each section portrays different
+  facets of life, capturing moments of connection, reflection, and the struggles that
+  people face amid the backdrop of city life. Aldis''s writing emphasizes the subtleties
+  of human interaction and the emotions that lie beneath the surface, ultimately inviting
+  readers to pause and consider their own experiences in the tapestry of life. (This
+  is an automatically generated summary.)'
+title: Flashlights
+url: http://www.gutenberg.org/ebooks/75630
